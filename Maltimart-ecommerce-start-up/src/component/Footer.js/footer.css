@@ -1,0 +1,32 @@
+.footer{
+    padding-top: 60px;
+    padding-bottom: 30px;
+    background: var(--primary-color);
+}
+.footer__text{
+    line-height: 30px;
+    color: rgb(255, 255, 255);
+}
+.fotter__quick-links ul li{
+    background: transparent !important;
+}
+.fotter__quick-linksul li a{
+    color: rgb(255, 255, 255);
+}
+.footer__links-title{
+    color: rgb(255, 255, 255);
+}
+.footer__text a:hover{
+     color: black;
+}
+.footer__contact li{
+    color: rgb(255, 255, 255);
+}
+.footer__copyrigths{
+    text-align: center;
+    color:  rgb(255, 255, 255);
+
+}
+.logo span i{
+    color:  rgb(255, 255, 255);   
+}
